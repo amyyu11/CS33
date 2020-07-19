@@ -1,8 +1,6 @@
 //OpenMP version.  Edit and submit only this file.
 /* Enter your details below
  * Name : Amy Yu
- * UCLA ID : 905138432
- * Email : yu.amy06@gmail.com
  */
 
 #include <stdlib.h>
